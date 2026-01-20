@@ -16,7 +16,7 @@ It focuses on layout, text styling, and basic responsiveness.
 - CSS3
 
 ## 🎥 Preview Video
-[Click here to watch the preview](assets/preview.mp4)
+[Click here to watch the preview](assets/preview.gif)
 - This project includes hover effects and interactive elements, so a video preview is provided instead of a static screenshot.
 
 ## 📚 What I Learned
