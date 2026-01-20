@@ -1,0 +1,65 @@
+body{
+    text-align: center;
+    font-family: 'Happy Monkey' , cursive;
+    color: white;
+    background:linear-gradient(rgb(117, 184, 228), pink);
+    
+}
+#bff{
+    width: 150px;
+    border-radius: 50%;
+    border: 6px solid rgb(233, 134, 150);
+}
+h1, h2, h4{
+    text-shadow: 2px -2px 3px black;
+}
+#bday-age{
+    background-color: rgb(233, 134, 150);
+    padding: 4px 8px 4px 8px;
+    border-radius: 5px;
+    margin: 10px 0 10px 0;
+}
+#bday-date{
+    background-color: rgb(233, 134, 150);
+    padding: 4px 8px;   /*can also write like that*/
+    border-radius: 5px;
+}
+#header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.gift-img{
+    width: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    height: 400px;
+    background-image: url("Images/GiftImg.jpg");
+    background-size: cover;
+    margin: 0 auto;
+
+}
+.gift-title{
+    margin-bottom: 10px;
+    margin-top: 50px;
+}
+.gift-hint{
+    margin-top: 0;
+    text-shadow: 0 0 5px black;
+}
+#gift-1:hover{
+    background-image: url("Images/shivanitosh.jpg");
+}
+
+#gift-2:hover{
+    background-image: url("Images/shivanitoshchild.jpg");
+}
+#gift-3:hover{
+    background-image: url("Images/giphyGIF.gif");
+}
+#gift-4:hover{
+    background-image: url("Images/BADASSGIF3.gif");
+}
+#gift-5:hover{
+    background-image: url("Images/Weird.jpg");
+}
